@@ -67,7 +67,7 @@ The shortest path: [(a,0), (c,9), (d,20)]
 ```
 
 ## Vertex
-A vertex is the most basic part of a graph and it is also called a node. Throughout we'll call it note. A vertex may also have additional information and we'll call it as payload.
+A vertex is the most basic part of a graph and it is also called a node. A vertex may also have additional information and we'll call it as payload.
 
 ## Edge
 An edge is another basic part of a graph, and it connects two vertices/ Edges may be one-way or two-way. If the edges in a graph are all one-way, the graph is a directed graph, or a digraph. The picture shown above is not a digraph.
