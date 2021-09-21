@@ -84,7 +84,7 @@ class Vertex:
     def __eq__(self, other: Any) -> bool:
         if not isinstance(other, Vertex):
             return NotImplemented
-        return self.id == other.id
+        return self.distance == other.distance
 
     def __lt__(self, other: Any) -> bool:
         if not isinstance(other, Vertex):
