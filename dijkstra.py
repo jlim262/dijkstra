@@ -97,7 +97,6 @@ class Vertex:
         return self.distance > other.distance
 
     def __hash__(self):
-        # return hash((self.id, self.distance, self.neighbors))
         return hash(self.id)
 
     def __str__(self):
