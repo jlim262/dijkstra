@@ -2,7 +2,7 @@
 Dijkstra's algorithm is an algorithm for finding the shortest paths between nodes in a graph. For more information, please refer to the wiki page(https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 
 ## Visualization
-![example1](https://j.gifs.com/K8QVm8.gif)
+![example1](dijkstra_example.gif)
 ## Run the example
 Tested on python 3.7+
 ```bash
